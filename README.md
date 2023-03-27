@@ -2,7 +2,7 @@
 ## Student ID: x20113561
 ...
 ---
-# Secure Version of the App
+# Insecure Version of the App
 ...
 ---
 1. Download and install Xampp
